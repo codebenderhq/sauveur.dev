@@ -9,3 +9,8 @@ At Sauveur, we believe that developers play a critical role in helping entrepren
 - [Deno](https://deno.land/manual@v1.32.4/getting_started/installation)
 - [Github Account](https://github.com)
 - [Vscode Dev](https://vscode.dev/)
+
+
+If you would like to install teh application
+
+- [VS CODE APP](https://code.visualstudio.com/download)
