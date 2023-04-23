@@ -11,6 +11,6 @@ At Sauveur, we believe that developers play a critical role in helping entrepren
 - [Vscode Dev](https://vscode.dev/)
 
 
-If you would like to install teh application
+If you would like to install the application
 
 - [VS CODE APP](https://code.visualstudio.com/download)
