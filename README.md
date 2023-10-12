@@ -2,7 +2,7 @@ With the ever-evolving world of web development, it can be difficult to keep up 
 
 ## System Requirements
 ### Deno
-[Deno](https://deno.land/manual@v1.29.1/getting_started/installation)
+[Deno](https://deno.land/manual/getting_started/installation)
 ## Getting Started
 
 create .env file 
@@ -13,25 +13,6 @@ start the development server
 ```
 deno task  start
 ```
-
-### Release
-
-Nice to have, enable push to allwaus follow
-```
-git config --global push.followTags true
-```
-
-create a release
-```
-deno task release  0.0.1-pre -m"hello world"
-```
-
-deploy release
-```
-git push --follow-tags
-```
-
-
 
 
 ## Contributions
