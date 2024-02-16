@@ -11,6 +11,12 @@ Documentation can be found [here](https://sauveur.dev)
 deno task start
 ```
 
+open website at 
+
+```
+http://localhost:8000/
+```
+
 ## Contributions
 
 clone std libraries from https://github.com/codebenderhq/oomph to folder just outside project
