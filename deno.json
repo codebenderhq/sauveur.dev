@@ -1,7 +1,9 @@
 {
     "tasks": {
-        "start" : "deno run -A --watch=./src/ https://deno.land/x/sauveur@0.4.3/src/mod.js --web",
-        "dev" : "export ENV=dev && export LOCAL=./src && deno run  -A --watch=./src/  ../std/src/mod.js --web"
+        "start" : "deno run -A ./src/server.js"
     },
-    "lock": false
+    "lock": false,
+    "imports": {
+        "oomph": "jsr:@oomph/core@0.0.4"
+      }
 }

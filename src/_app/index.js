@@ -8,8 +8,6 @@ export default (props) => {
  setTimeout(() => {
   document.getElementById('banner').classList.remove('hidden')
  }, 2000)
-
-   
 }
 
 // code that is run on the server
